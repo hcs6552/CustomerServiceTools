@@ -1,4 +1,4 @@
-package cn.emay.custom.view;
+package cn.customer.view;
 
 import de.felixroske.jfxsupport.AbstractFxmlView;
 import de.felixroske.jfxsupport.FXMLView;

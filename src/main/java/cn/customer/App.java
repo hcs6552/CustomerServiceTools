@@ -1,11 +1,8 @@
-package cn.emay.custom;
+package cn.customer;
 
-import cn.emay.custom.config.CustomSplash;
-import cn.emay.custom.view.IndexView;
+import cn.customer.config.CustomSplash;
+import cn.customer.view.IndexView;
 import de.felixroske.jfxsupport.AbstractJavaFxApplicationSupport;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
 import javafx.stage.Stage;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

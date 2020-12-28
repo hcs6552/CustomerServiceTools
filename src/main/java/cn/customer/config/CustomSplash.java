@@ -1,6 +1,5 @@
-package cn.emay.custom.config;
+package cn.customer.config;
 
-import com.sun.javafx.applet.Splash;
 import de.felixroske.jfxsupport.SplashScreen;
 
 /**
@@ -13,7 +12,7 @@ public class CustomSplash extends SplashScreen {
 
     @Override
     public String getImagePath() {
-        return "/image/Emay.png";
+        return super.getImagePath();
     }
 
     @Override
