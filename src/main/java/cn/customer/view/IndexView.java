@@ -9,7 +9,7 @@ import de.felixroske.jfxsupport.FXMLView;
  * @author Hcs
  * @create 2020/12/27
  */
-@FXMLView("/views/index.fxml")
+@FXMLView( value = "/views/index.fxml",encoding = "UTF-8")
 public class IndexView extends AbstractFxmlView {
 
 }

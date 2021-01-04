@@ -12,7 +12,8 @@ public class CustomSplash extends SplashScreen {
 
     @Override
     public String getImagePath() {
-        return super.getImagePath();
+        return "/image/loading/s.jpg";
+//        return super.getImagePath();
     }
 
     @Override
